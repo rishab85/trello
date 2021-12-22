@@ -1,0 +1,17 @@
+.trello__card {
+  position: relative;
+  margin-top: 10px;
+  background-color: #ebebeb;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #bdbdbd;
+}
+
+.delete__btn {
+  background-color: transparent;
+  height: 20px;
+  position: absolute;
+  color: #c21010;
+  top: 0;
+  right: 10px;
+}

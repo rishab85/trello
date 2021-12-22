@@ -1,0 +1,42 @@
+.addcard-form {
+  padding: 20px 0;
+}
+
+.primary__btn {
+  margin-top: 10px;
+  display: flex;
+  background-color: #2a862f;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.addcard-form textarea {
+  border: none;
+  width: 90%;
+  padding: 10px;
+}
+
+.secondary__btn {
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+}
+
+.createnew__btn {
+  width: 100%;
+}
+
+.action__panel {
+  display: flex;
+}
+
+.cancel__btn {
+  background-color: transparent;
+  margin-left: 20px;
+}
+
+.error_message {
+  color: #c41111;
+}

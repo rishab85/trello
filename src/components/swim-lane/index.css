@@ -1,0 +1,20 @@
+.trello__swim-lane {
+  flex: 1;
+  background-color: #d1d1d1;
+  margin: 10px;
+  min-width: 200px;
+  padding: 0 10px;
+}
+
+.trello__swim-lane-title {
+  position: sticky;
+  top: 0;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: bold;
+  background-color: #d1d1d1;
+}
+
+.trello__add-panel {
+  position: absolute;
+}
